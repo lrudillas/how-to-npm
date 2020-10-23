@@ -1,0 +1,24 @@
+{
+  "name": "@lrudillas/how-to-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Lhea Rudillas",
+  "license": "ISC",
+  "description": "This is a sample README file.",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrudillas/how-to-npm.git"
+  },
+  "keywords": [
+    "how-to-npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/lrudillas/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/lrudillas/how-to-npm#readme"
+}
